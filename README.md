@@ -11,3 +11,4 @@ I am a software engineer since 2007.
 - Windows/Linuxのトラブル追跡実践ノウハウ エンジニア必携 (2015, リックテレコム)
 - RustではじめるOpenGL (2020, インプレスR&D)
 - 実践Rustプログラミング入門 (2020, 秀和システム)
+- 実践Rustプログラミング入門 第2版 (2025, 秀和システム)
